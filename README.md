@@ -2,8 +2,11 @@
 
 **`Backend Developer`**
 
-I am looking for a job for the position of 'Backend Developer' in an IT company. In my work I value good code, colleagues and streamlined processes.
-I'll be glad to meet you!)
+I am an enthusiastic and resourceful developer embarking on a journey in programming. Proficient in Python and C#, I am eager to expand my knowledge and utilize my skills in various projects. From conceptualization to design and implementation, I am accustomed to handling every phase of development.
+
+In addition to honing my coding abilities, I am also keen on sharing my expertise with the community through insightful articles and engaging content. I aim to connect with fellow developers and industry professionals on platforms like "[LinkedIn](https://www.linkedin.com/in/maqsad-muradovich-2a1057277/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B%2FY1Q6PK9RtunGcVyfz6QUg%3D%3D)" to exchange ideas, share experiences, and stay updated on the latest trends in programming.
+
+I look forward to hearing your thoughts and suggestions, and I'm excited about the prospect of collaborating with you!
 
 ---
 
@@ -22,6 +25,8 @@ I'll be glad to meet you!)
 <img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
 <br />
+
+#
 
 ### 📊 Stats
 
