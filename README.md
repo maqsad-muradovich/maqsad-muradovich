@@ -27,11 +27,3 @@ I look forward to hearing your thoughts and suggestions, and I'm excited about t
 <br />
 
 #
-
-### 📊 Stats
-
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=maqsad-muradovich&show_icons=true&theme=tokyonight)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
-
-#
