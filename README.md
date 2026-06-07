@@ -1,17 +1,17 @@
-# 👨🏻‍💻 Maqsad Muradovich
-**`AI Integration Developer`**
+# Maqsad Muradovich
+**`Builder · AI Integration Developer`**
 
-I build AI integrations and full-stack products — from B2B trade automation to learning platforms and assessment systems. Based in Uzbekistan, working across the full stack with a focus on shipping practical tools that solve real business problems, not demos.
+I build software and work with AI — turning ideas into products that solve real problems, not demos. From B2B trade automation to learning platforms and offline-first assessment systems, shipping across the full stack from Uzbekistan.
 
-Currently open to AI integration contracts, automation projects, and full-stack development.
+Building in public — and open to AI integration contracts, automation work, and full-stack projects.
 
 ---
 
 ### 🚀 What I'm building
 
-- **[OptoM](#)** — B2B trade automation connecting distributors with marketplaces and retail in Uzbekistan
-- **[MyStudy Pro](#)** — Learning management platform for educators and training centers
-- **IELTS Mock Test Platform** — Local LAN testing system for training centers, with auto-grading, full test editor, and admin/student interfaces
+- **[OptoM](#)** — B2B trade automation connecting distributors with marketplaces and retail
+- **[MyStudy Pro](#)** — Learning platform for educators and training centers
+- **IELTS Mock Test Platform** — Offline, LAN-based testing system with auto-grading and a full test editor
 
 ---
 
@@ -42,5 +42,3 @@ Open to AI integration contracts, automation builds, and collaboration on practi
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/maqsad-muradovich/)
 - 📧 maqsad.baxadirov@gmail.com
-
-#
